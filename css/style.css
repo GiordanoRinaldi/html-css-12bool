@@ -1,0 +1,10 @@
+/*common*/
+
+body [class*="col-"] {
+    min-height: 50px;
+    border: 1px solid white;
+    background-color: rgb(55, 55, 255);
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}

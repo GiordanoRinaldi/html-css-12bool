@@ -17,7 +17,10 @@
 }
 
 /*columns*/
-
+.col-xs {
+    flex-grow: 1;
+    flex-basis: 0;
+}
 .col-xs-1 {
     flex-basis: calc((100% / 12) * 1);
 }
